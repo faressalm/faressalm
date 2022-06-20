@@ -5,10 +5,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/fares-salm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="fares-salm" height="30" width="40" /></a>
-<a href="https://dev.to/faressalm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="faressalm" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/faris-waheed-1a609b18b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="faris waheed" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/18534407" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18534407" height="30" width="40" /></a>
 <a href="https://codesandbox.com/faressalm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="faressalm" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/fareswaheed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="fares waheed" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCVFmVt0i3-SUimJZMn2Tq_A" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="fares waheed" height="30" width="40" /></a>
