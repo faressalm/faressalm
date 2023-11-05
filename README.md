@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm software engineer .</h1>
+<h1 align="center">Hi 👋, I'm a software engineer .</h1>
 <h3 align="center">Currently work as a software engineer at TringlZ in Egypt.</h3>
 
 - 📫 How to reach me **faressalm44@hotmail.com**
