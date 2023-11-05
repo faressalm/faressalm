@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm an undergraduate computer engineering student.</h1>
-<h3 align="center">Currently work as a part time software engineer at JPadel in Egypt.</h3>
+<h1 align="center">Hi 👋, I'm software engineer .</h1>
+<h3 align="center">Currently work as a software engineer at TringlZ in Egypt.</h3>
 
 - 📫 How to reach me **faressalm44@hotmail.com**
 
